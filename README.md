@@ -18,7 +18,7 @@ A fully animated and interactive coffee shop webpage designed to create a seamle
 ## 🏗 Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/RepositoryName.git
+   [git clone https://github.com/YourUsername/RepositoryName.git](https://github.com/Mohammed23200/coffee-shop-.git)
 
 2. Navigate to the project directory:
 
